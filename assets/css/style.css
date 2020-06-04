@@ -1,0 +1,14 @@
+
+
+/*.header-height{ height: 250px;}*/
+/*.menu-height{ height: 50px;}*/
+/*.slider-height{ height: 300px;}*/
+/*.content-height{ height: 750px;}*/
+/*.footer-height{ height: 50px;}*/
+
+.mySlide{
+    padding: 150px;
+    background-image: url("../image/3.jpg");
+    background-size: cover;
+
+}
